@@ -1,5 +1,5 @@
 <div align="center">
-   <img  src="https://user-images.githubusercontent.com/78514869/155858013-887dd01c-2d96-44ac-b8f6-c5d10afeb89f.svg">
+   <img  src="https://user-images.githubusercontent.com/78514869/155883616-fd5af58d-24f8-4638-90b1-db26e696ca34.svg">
 </div>
 
 
@@ -45,18 +45,26 @@ This will be an application where your main objective is to add some code snippe
 The following tools were used in the construction of the project:
 
 -   **React**
--   **React Icons**
--   **TypeScript**
 -   **NextJs**
--   **Prismic CMS**
--   **Sass**
+-   **TypeScript**
+-   **FaunaDB**
+-   **Chakra UI**
+-   **API-ImgBB**
+-   **React Query**
+-   **React Hook Form**
 
 ## Layout
 
 * **Home**
-<br/>
 
-![blog](https://user-images.githubusercontent.com/78514869/155858006-572d2498-66e0-47e0-8a34-47fb791b0ca3.png)
+
+![home1](https://user-images.githubusercontent.com/78514869/155883610-348493d7-70a1-46df-96c7-affffeed2161.png)
+
+
+* **Add Image**
+
+![modal](https://user-images.githubusercontent.com/78514869/155883528-bf996122-b5cc-4e72-a4ef-e2061a9a7345.png)
+
 
 
 
@@ -100,7 +108,6 @@ or
 3. npm install
 4. npm dev
 ```
-
 
 
 ## License
