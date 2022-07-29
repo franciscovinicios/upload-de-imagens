@@ -84,7 +84,7 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/franciscovinicios/spacetraveling..git
+1. git clone https://github.com/franciscovinicios/upload-de-imagens.git
 2. cd spacetraveling.
 ```
 
